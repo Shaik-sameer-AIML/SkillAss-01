@@ -112,6 +112,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 ![Screenshot (21)](https://github.com/Shaik-sameer-AIML/SkillAss-01/assets/93427186/7db945ff-4e96-4f1d-8d69-175c452e3345)
+<img width="502" alt="sa" src="https://github.com/Shaik-sameer-AIML/SkillAss-01/assets/93427186/badc9d31-6c6e-49f3-b581-f8152ebcf1be">
 
 
 ## Result:
